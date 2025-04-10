@@ -2,9 +2,9 @@
 
 **`Tech-driven Experimentalist (Developer/Banker/Writer)`**
 
-<p>I'm an indie full-stack developer and content writer building the dilemma of the world I dreamt of, with glimpsing novelty, creativity and positivity into it. 
-Projects I built are my relentless efforts for ideation, planning and designing ways to understand and solve real-life problems with code.</p>
-<p>I'm currently an undergraduate Engineer at the Indian Institute of Technology (BHU) Varanasi.
+<p>I'm an indie full-stack developer and content writer, certainly updating my knowledge through surroundings and building robust applications, blending novelty, creativity and positivity into it. 
+My projects are the relentless efforts for ideation and designing ways to understand and solve real-life problems with code.</p>
+<p>I'm an undergraduate Engineer at the Indian Institute of Technology (BHU) Varanasi.
 Developing interest and skills in Finance, Healthcare and Virtual Reality domains.</p>
 
    <p align="left">
