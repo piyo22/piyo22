@@ -1,7 +1,7 @@
 # 🏄‍♂️ PIYUSH MORE
 
-**`Tech-driven Experimentalist (Developer/Banker/Writer)`**
-
+**`Developer-Banker-Writer`**
+<h3>Tech-driven Experimentalist </h3>
 <p>I'm an indie full-stack developer and content writer, certainly updating my knowledge through surroundings and building robust applications, blending novelty, creativity and positivity into it. 
 My projects are the relentless efforts for ideation and designing ways to understand and solve real-life problems with code.</p>
 <p>I'm an undergraduate Engineer at the Indian Institute of Technology (BHU) Varanasi.
